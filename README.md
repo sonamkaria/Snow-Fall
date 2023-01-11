@@ -3,10 +3,10 @@
 ### Introduction
 
 ### Team Members:
-#### Cody Clark
-#### Ellie
-#### Sonam Karia
-#### Winston Tang
+#### 1. Release Manager - Winston
+#### 2. Product Manager - Ella
+#### 3. Lead Frontend Dev - Sonam
+#### 4. Lead Backend Dev - Cody
 
 ### Project Description: Snow Fall is a full CRUD ecommerce single page application. 
 
