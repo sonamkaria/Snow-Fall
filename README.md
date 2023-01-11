@@ -10,7 +10,7 @@
 
 ### Project Description: Snow Fall is a full CRUD ecommerce single page application. 
 
-### User Stories - In Progress
+### User Stories - 
 
 ### Wireframes - In Progress
 
