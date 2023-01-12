@@ -24,6 +24,9 @@
 #### 6. As a customer trying to register for an account, I need to be informed if I have an existing account or making any errors so that I can fix them
 #### 7. As a customer, I need to be able to submit my payment details and get authorization to complete my order during checkout
 
+#### 8. As a customer looking at the products, I need to see an “edit” button to update my cart
+#### 9. As a customer looking at the products, I need to see a “delete” button to update my cart
+
 
 ### Wireframes 
 #### ![alt text](./image.png)
